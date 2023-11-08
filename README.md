@@ -15,7 +15,7 @@ A user-friendly web application was developed to allow users to easily access an
 Frontend - REACT
 Backend - FLASK
 
-### adrenalin and specilst reccomndation system
+### Adrenalin and Specialist Recommendation System
 When the system determines that a patient is positive for anaphylaxis, it provides guidance on the appropriate adrenaline volume to be administered. The calculation for this volume takes into account the patient's age and weight, ensuring a tailored and precise response.
 Conversely, if the system identifies a patient as negative for anaphylaxis, it proceeds to offer recommendations for a suitable specialist based on the remaining symptoms exhibited by the patient. These specialist recommendations ensure that the patient receives the most relevant and targeted care for their specific health condition.
 
