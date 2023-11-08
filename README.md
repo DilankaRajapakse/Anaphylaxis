@@ -12,6 +12,7 @@ Once the data was gathered, it was cleaned and pre-processed to ensure its quali
 
 ### Front-end Development
 A user-friendly web application was developed to allow users to easily access and use the Anaphylaxis Prediction model. The web application was designed using a responsive design approach. The application also includes features to help healthcare professionals interpret the model's predictions and make informed clinical decisions.
+
 Frontend - REACT
 Backend - FLASK
 
