@@ -1,6 +1,6 @@
 # Anaphylaxis Prediction Web Application
 
-# Problem:
+## Problem:
 Anaphylaxis is a serious allergic reaction that can be life-threatening. It is caused by a rapid release of histamine and other chemicals into the bloodstream. Accurately diagnosing anaphylaxis can be a challenging task for healthcare professionals due to its unpredictable nature and the similarity of its symptoms to other allergic reactions. Conventional methods often rely on subjective assessments and past medical history, which can lead to misdiagnosis or delays in treatment. This can have severe consequences, as anaphylaxis can rapidly progress to a life-threatening condition if not promptly addressed.
 The Anaphylaxis Prediction model offers a promising solution to this challenge by providing an objective and data-driven approach to anaphylaxis diagnosis. By analyzing patient symptoms the model can identify patterns that are associated with an increased risk of anaphylaxis. This information can then be used by healthcare professionals to make informed decisions about treatment and prevention, potentially reducing the risk of misdiagnosis and improving patient outcomes.
 
