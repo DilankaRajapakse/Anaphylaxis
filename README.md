@@ -8,7 +8,7 @@ The Anaphylaxis Prediction model offers a promising solution to this challenge b
 The first step in developing the Anaphylaxis Prediction model was to gather a comprehensive dataset of patient records. This dataset included information on patient symptoms and medication use. The data was gathered from various sources, including electronic health records, medical claims data, and research databases.
 
 ### ML Model Development
-Once the data was gathered, it was cleaned and preprocessed to ensure its quality and consistency. Next, various machine learning algorithms were trained and evaluated on the dataset. The best performing algorithm was a random forest classifier, which achieved an accuracy of 98% on the test data.
+Once the data was gathered, it was cleaned and pre-processed to ensure its quality and consistency. Next, various machine learning algorithms were trained and evaluated on the dataset. The best performing algorithm was a random forest classifier, which achieved an accuracy of 98% on the test data.
 
 ### Front-end Development
 A user-friendly web application was developed to allow users to easily access and use the Anaphylaxis Prediction model. The web application was designed using a responsive design approach. The application also includes features to help healthcare professionals interpret the model's predictions and make informed clinical decisions.
